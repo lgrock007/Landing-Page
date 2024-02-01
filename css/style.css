@@ -149,3 +149,7 @@ header div button:hover{
     color: white;
     background-color: #833AB4;
 }
+main img{
+    visibility: visible;
+    z-index: 5;
+}
